@@ -1,0 +1,1 @@
+Case study: analyzing Instagram videos of boxing training for all ages to identify top-performing content based on engagement metrics.
